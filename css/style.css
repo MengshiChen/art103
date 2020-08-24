@@ -30,18 +30,22 @@ header{
   font-size: 20px;
 }
 
-/* .main-nav li.active a {
+.main-nav li.active a {
   border: 1px solid white;
-} */
+}
 
 .main-nav li a:hover {
-  border:1px solid white;
+  border: 1px solid white;
 }
 
 .crown img {
   width: 100px;
   height:auto;
   float: left;
+}
+
+body{
+  font-family: monospace;
 }
 
 .row {

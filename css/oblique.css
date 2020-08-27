@@ -1,0 +1,53 @@
+{
+  margin-top: 0px;
+  border-top: 0px;
+}
+
+body {
+  background-color: black;
+  background-size: cover;
+  background-position: center;
+}
+
+.one, .two, .three{
+  margin-top:  80px;
+  margin-bottom: 80px;
+  margin-left: 200px;
+  margin-right: 200px;
+  padding-top: 20px;
+  padding-bottom:  50px;
+  text-align: center;
+}
+
+h3 {
+  color: white;
+  font-size: 20px;
+  font-family: "Roboto",sans-serif;
+  text-align: center;
+}
+
+.button {
+  margin-top: 150px;
+  margin-left: 200px;
+}
+
+.btn {
+  border: 1px solid white;
+  padding:10px 30px;
+  color: white;
+  text-decoration: none;
+  margin-right: 5px;
+  font-size: 13px;
+  text-transform: uppercase;
+}
+
+
+.btn-one {
+  font-family: "Roboto",sans-serif;
+}
+
+.btn-one:hover{
+  color: black;
+  background-color: white;
+  transition: all 0.5s ease-in;
+}

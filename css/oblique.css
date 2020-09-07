@@ -8,17 +8,8 @@ body {
   background-size: cover;
   background-position: center;
 }
-.part1,.part2{
-  margin-top:  80px;
-  margin-bottom: 80px;
-  margin-left: 200px;
-  margin-right: 200px;
-  padding-top: 20px;
-  padding-bottom:  50px;
-  text-align: center;
 
-}
-.one, .two, .three,.breakfast,.lunch,.dinner,.dessert{
+.part1,.part2,.one, .two, .three,.breakfast,.lunch,.dinner,.dessert{
   margin-top:  80px;
   margin-bottom: 80px;
   margin-left: 200px;

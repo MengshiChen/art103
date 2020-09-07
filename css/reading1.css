@@ -8,17 +8,8 @@ body {
   background-size: cover;
   background-position: center;
 }
-.part1,.part2{
-  margin-top:  80px;
-  margin-bottom: 80px;
-  margin-left: 200px;
-  margin-right: 200px;
-  padding-top: 20px;
-  padding-bottom:  50px;
-  text-align: center;
 
-}
-.one, .two, .three,.breakfast,.lunch,.dinner,.dessert{
+.part1,.part2{
   margin-top:  80px;
   margin-bottom: 80px;
   margin-left: 200px;
@@ -34,15 +25,18 @@ h2{
   font-size: 70px;
   text-align: center;
 }
-
- h3, p{
-  color: white;
-  font-size: 20px;
-  font-family: "Roboto",sans-serif;
-  text-align: center;
+b{
+  color: #73D3FA;
 }
-ul{
-  color: white;
+p{
+ color: white;
+ font-size: 20px;
+ font-family: "Roboto",sans-serif;
+ text-align: center;
+}
+
+h3{
+  color: #D7FA85;
   font-size: 20px;
   font-family: "Roboto",sans-serif;
   text-align: center;

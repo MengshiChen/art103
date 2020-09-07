@@ -11,30 +11,41 @@ header{
   background-size: cover;
   background-position: center;
 }
+/* ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+
+} */
 
 .main-nav{
-  float:right;
+  float:inherit;
   list-style: none;
-  margin-top: 30px;
+  padding-top: 30px;
 }
+
+/* li {
+  display: inline-inline-block;
+
+} */
 
 .main-nav li {
   display:inline-block;
 }
 
-.main-nav li a {
+li a {
   color: white;
   text-decoration: none;
   padding:5px 20px;
   font-family:"Roboto",sans-serif;
   font-size: 20px;
 }
-
+/*
 .main-nav li.active a {
   border: 1px solid white;
-}
+} */
 
-.main-nav li a:hover {
+li a:hover {
   border: 1px solid white;
 }
 

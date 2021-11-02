@@ -1,0 +1,122 @@
+{
+  margin-top: 0px;
+  border-top: 0px;
+}
+
+body {
+  background-color: black;
+  background-size: cover;
+  background-position: center;
+}
+
+.main-nav{
+  float:inherit;
+  list-style: none;
+  padding-top: 30px;
+}
+
+
+
+.main-nav li {
+  display:inline-block;
+}
+
+li a {
+  color: white;
+  text-decoration: none;
+  padding:5px 20px;
+  font-family:"Roboto",sans-serif;
+  font-size: 20px;
+}
+
+
+li a:hover {
+  border: 1px solid white;
+}
+
+.part1,.part2,.part3{
+  margin-top:  80px;
+  margin-bottom: 80px;
+  margin-left: 50px;
+  margin-right: 50px;
+  padding-top: 20px;
+  padding-bottom:  50px;
+  text-align: center;
+}
+
+.images{
+  text-align: center;
+}
+
+h2{
+  color:white;
+  text-transform: uppercase;
+  font-size: 70px;
+  text-align: center;
+}
+
+h3{
+  color: #D7FA85;
+  font-size: 20px;
+  font-family: "Roboto",sans-serif;
+  text-align: center;
+}
+
+p{
+ color: #FAF7AE;
+ font-size: 20px;
+ font-family: "Roboto",sans-serif;
+ text-align: center;
+ padding-left: 80px;
+ padding-right: 80px;
+}
+
+.button {
+  margin-top: 150px;
+  margin-left: 200px;
+}
+
+.btn {
+  border: 1px solid white;
+  padding:10px 30px;
+  color: white;
+  text-decoration: none;
+  margin-right: 5px;
+  font-size: 13px;
+  text-transform: uppercase;
+  float: left;
+}
+
+
+.btn-one {
+  padding: 12px 28px;
+  font-family: "Roboto",sans-serif;
+}
+
+.btn-one:hover{
+  color: black;
+  background-color: white;
+  transition: all 0.5s ease-in;
+}
+
+.btn-two {
+  padding: 12px 28px;
+  font-family: "Roboto",sans-serif;
+}
+
+.btn-two:hover{
+  color:black;
+  background-color: white;
+  transition: all 0.5s ease-in;
+}
+
+.btn-three {
+  padding: 12px 28px;
+  font-family: "Roboto",sans-serif;
+}
+
+.btn-three:hover{
+  color:black;
+  background-color: white;
+  transition: all 0.5s ease-in;
+}
